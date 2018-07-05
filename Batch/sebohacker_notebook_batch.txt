@@ -1,0 +1,23 @@
+@echo off >>> nebude vypisovat prikazy iba ich konat
+echo <x> >>> <x> = text ; >echo nejaky text >>> vypise "nejaky text"
+msg * <x> >>> <x> =  text ; >msg * Ahoj >>>vyskoci okno s napisom "Ahoj" !,vyzaduje click > "Ok"
+pause >>> pocka na stisnutie nejakeho klavesu
+title <x> >>> <x> = text ; >>> nastavi napis na okne
+------------------- sleep <x> >>> <x> = ?/text.int !,x = int in second >>> pocka <x> sekund (zasekne program na 5s)
+timeout /t <x> /nobreak > NUL >>> <x> = ?/text.int !,x = int in second >>> pocka <x> sekund (zasekne program na 5s)
+start <x> >>> <x> == path ku nejakemu suboru co sa ma spustit
+
+
+!!!shutdown <
+shutdown
+doplníme -s nebo -r nebo -l ; -t (např.)10 ; -c „nejaka zprava“
+shutdown -s – vypnutí počítače
+shutdown -r  – restart počítače
+shutdown -l  – odhlášení uživatele
+pokud napíšete shutdown -s -t 30  počítač se vypne za 30 sekund
+-c “ukaze zpravu u vypinaciho dialogu“     (píšeme bez diakritiky)
+>
+
+set <x>=<y> >>> nova premenna <x> = <y>
+set /p <x>=<y> >>> do <x> sa ulozi prompt od uzivatela ,, do <y> napis co ches vypisat pred promptom napr. ... set /p x=Napis svoje meno
+
