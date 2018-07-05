@@ -1,0 +1,14 @@
+import Tkinter as tk
+
+def keypress(event):
+    if event.keysym == 'Escape':
+        root.destroy()
+    x = event.char
+    log_file = open("G:\\WD\\LOG\\testLOG2.txt", "r+")
+    log_file.write(log_file)
+root = tk.Tk()
+print "Press a key"
+root.bind_all('<key>', keypress)
+
+root.withdraw()
+root.mainloop()

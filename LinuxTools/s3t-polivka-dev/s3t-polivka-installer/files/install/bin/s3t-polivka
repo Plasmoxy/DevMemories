@@ -1,0 +1,9 @@
+#!/bin/bash
+
+INSTALL_DIR=/usr/s3t-polivka
+version=$(cat ${INSTALL_DIR}/version.txt)
+
+echo "== s3t-polivka simple linux software distribution program by Sebp3t =="
+echo "version : ${version}"
+echo "installed in : ${INSTALL_DIR}"
+echo "developer email : sebohacker@gmail.com"

@@ -1,0 +1,23 @@
+<HTML>
+<HEAD>
+ <TITLE>HTML</TITLE>
+<script language="JavaScript">
+var nClick=0;
+</script>
+</HEAD>
+
+<BODY
+	id="telo"
+	onclick=
+		"
+		nClick = nClick+1;
+		if (nClick%2) telo.text='red';
+		else telo.text='#0000FF';
+		Pocet.innerText=nClick;
+		"
+>
+
+Pocet kliknuti : <b id='Pocet'>0</b>
+
+</BODY>
+</HTML>

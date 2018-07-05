@@ -1,0 +1,10 @@
+#define _7seg_0 0b11111100
+#define _7seg_1 0b01100000
+#define _7seg_2 0b11011010
+#define _7seg_3 0b11110010
+#define _7seg_4 0b01100110
+#define _7seg_5 0b10110110
+#define _7seg_6 0b10111110
+#define _7seg_7 0b11100100
+#define _7seg_8 0b11111111
+#define _7seg_9 0b11100110

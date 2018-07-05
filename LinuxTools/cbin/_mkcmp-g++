@@ -1,0 +1,16 @@
+#!/bin/sh
+
+# * if you want to add folder to library path then add "-B {yo path}" option
+#   to the g++ command
+
+echo "\
+#!/bin/sh
+echo \"COMPILING ${1}.cpp USING g++ FLAG -std=c++11 OUTPUTING ${1}\"
+g++ -std=c++11 -o ${1} ${1}.cpp
+echo \"DONE COMPILING\"
+" > cmp
+
+sudo chmod 777 cmp
+
+
+

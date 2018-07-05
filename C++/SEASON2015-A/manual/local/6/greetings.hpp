@@ -1,0 +1,3 @@
+namespace greetings {
+	void hi();
+}

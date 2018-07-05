@@ -1,0 +1,8 @@
+./cmp
+echo "<press any key to run the program>"
+read -n 1 -s
+clear
+./2
+echo "<PROGRAM ENDED, press any key to exit>"
+read -n 1 -s
+clear

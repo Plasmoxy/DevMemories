@@ -1,0 +1,13 @@
+[Project]
+FileName=G:\000programing\Pascal\projects062014\helloWorld2\helloWorld2.dp
+Name=helloWorld2
+MainUnit=main
+UnitCount=1
+ResFiles=G:\000programing\Pascal\projects062014\helloWorld2\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=G:\000PRO~1\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=main
+[Unit0]
+FileTime=1153263479

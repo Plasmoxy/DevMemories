@@ -1,0 +1,5 @@
+#!/bin/sh
+echo COMPILING 2.cpp USING g++ OUTPUTING 2
+g++ -o 2 2.cpp
+echo DONE COMPILING
+

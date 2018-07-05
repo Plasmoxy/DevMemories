@@ -1,0 +1,6 @@
+#!/bin/sh
+echo COMPILING 4.c USING gcc OUTPUTING 4
+echo LIBRARY PATH = .
+gcc -o 4 4.c -I .
+echo DONE COMPILING
+

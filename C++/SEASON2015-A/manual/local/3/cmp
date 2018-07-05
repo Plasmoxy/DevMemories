@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "COMPILING 3.cpp USING g++ FLAG -std=c++11 OUTPUTING 3"
+g++ -std=c++11 -o 3 3.cpp
+echo "DONE COMPILING"
+

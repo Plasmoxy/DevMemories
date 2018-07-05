@@ -1,0 +1,2 @@
+#!/bin/sh
+gnome-terminal -x $(pwd)/$1

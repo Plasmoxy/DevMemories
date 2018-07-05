@@ -1,0 +1,16 @@
+#!/bin/sh
+
+lib_path=.
+
+echo "\
+#!/bin/sh
+echo \"COMPILING ${1}.c USING gcc FLAG -std=c11 OUTPUTING ${1}\"
+echo \"LIBRARY PATH = ${lib_path}\"
+gcc -std=c11 -o ${1} ${1}.c -I ${lib_path}
+echo \"DONE COMPILING\"
+" > cmp
+
+sudo chmod 777 cmp
+
+
+

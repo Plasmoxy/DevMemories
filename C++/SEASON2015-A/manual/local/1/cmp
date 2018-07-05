@@ -1,0 +1,5 @@
+#!/bin/sh
+echo COMPILING 1.cpp USING g++ OUTPUTING 1
+g++ -o 1 1.cpp
+echo DONE COMPILING
+

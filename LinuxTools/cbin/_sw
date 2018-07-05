@@ -1,0 +1,5 @@
+sudo python -c "\
+import serial
+ser = serial.Serial('$1')
+ser.write('$2')
+ser.close()"

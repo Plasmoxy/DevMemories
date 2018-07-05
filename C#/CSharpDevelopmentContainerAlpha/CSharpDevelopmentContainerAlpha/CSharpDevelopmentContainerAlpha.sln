@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox1", "Sandbox1\Sandbox1.csproj", "{162D24C3-AB4D-461A-B136-801BA988CF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeryGudVirusAvastRemovPls", "VeryGudVirusAvastRemovPls\VeryGudVirusAvastRemovPls.csproj", "{63BA9AA5-690E-448E-B444-F31240E66DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor test", "Constructor test\Constructor test.csproj", "{5742E7DA-BA0F-4FAD-AFC7-D89066013238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{162D24C3-AB4D-461A-B136-801BA988CF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162D24C3-AB4D-461A-B136-801BA988CF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162D24C3-AB4D-461A-B136-801BA988CF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162D24C3-AB4D-461A-B136-801BA988CF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BA9AA5-690E-448E-B444-F31240E66DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BA9AA5-690E-448E-B444-F31240E66DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BA9AA5-690E-448E-B444-F31240E66DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BA9AA5-690E-448E-B444-F31240E66DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5742E7DA-BA0F-4FAD-AFC7-D89066013238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5742E7DA-BA0F-4FAD-AFC7-D89066013238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5742E7DA-BA0F-4FAD-AFC7-D89066013238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5742E7DA-BA0F-4FAD-AFC7-D89066013238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

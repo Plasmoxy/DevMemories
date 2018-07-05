@@ -1,0 +1,23 @@
+#!/usr/bin/python
+import curses
+
+a = 4
+
+scr = curses.initscr()
+curses.noecho();
+
+def update() :
+	
+	scr.clear()
+	scr.border(0)
+	scr.addstr(1, 1, str(a))
+	scr.refresh()
+
+#end def
+
+
+while True :
+	update()
+	a += 1;
+	key = scr.getch();
+#end while

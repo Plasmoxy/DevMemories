@@ -1,0 +1,6 @@
+#!/bin/sh
+echo COMPILING 3.c USING gcc OUTPUTING 3
+echo LIBRARY PATH = .
+gcc -o 3 3.c -I .
+echo DONE COMPILING
+

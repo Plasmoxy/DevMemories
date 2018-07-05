@@ -1,0 +1,9 @@
+%=SVAL;
+%decompiler=SVALCat;
+
+uvod=
+	Ahoj ! Toto je príklad na čítanie textu zo súboru%n
+	a jeho následné dekompilovanie z formátu SVAL%n
+	(Simple Value Assign Language). Tento text je%n
+	konštanta sama o sebe. Čus !%n
+;

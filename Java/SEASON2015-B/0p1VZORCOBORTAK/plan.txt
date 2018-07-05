@@ -1,0 +1,16 @@
+@project : 0p1VZORCOBORTAK
+@package : com.matrixerrorseb.vzobort
+
+CO BUDZE ROBIC :
+
+1. uvitanie
+2. sysout : UTVAR : kocka/kvader/ ...
+3. scanner String
+4. sysout : VYPOCITAT ?
+5. scanner String "p"/"n"
+6. p: vypocita (scanner ++) + vzorce
+7. n: nevypocita, len napise vzorce
+8. volba konec / restart
+
+
+PLAN NEVISIEL IMPROVIZACIA VYHRALA :D;

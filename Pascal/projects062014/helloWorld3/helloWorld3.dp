@@ -1,0 +1,12 @@
+[Project]
+FileName=G:\000programing\Pascal\projects062014\helloWorld3\helloWorld3.dp
+Name=helloWorld3
+MainUnit=G:\000programing\Pascal\projects062014\helloWorld3\main.pas
+UnitCount=1
+ResFiles=G:\000programing\Pascal\projects062014\helloWorld3\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=G:\000programfiles\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=G:\000programing\Pascal\projects062014\helloWorld3\main.pas
+FileTime=1153263812

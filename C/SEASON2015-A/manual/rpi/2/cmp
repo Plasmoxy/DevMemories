@@ -1,0 +1,6 @@
+#!/bin/sh
+echo COMPILING 2.c USING gcc OUTPUTING 2
+echo LIBRARY PATH = .
+gcc -o 2 2.c -I .
+echo DONE COMPILING
+

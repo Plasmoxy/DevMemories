@@ -1,0 +1,6 @@
+%=SVAL;
+%useDecompiler=SVALCat;
+
+op=*;
+a=12312312;
+b=324782732;

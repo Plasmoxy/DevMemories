@@ -1,0 +1,15 @@
+[Project]
+FileName=G:\000programing\Pascal\projects062014\Project 3\Project 3.dp
+Name=Project 3
+MainUnit=G:\000programfiles\Dev-Pas\Icons\main.pas
+UnitCount=1
+ResFiles=G:\000programing\Pascal\projects062014\Project 3\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=G:\000programfiles\Dev-Pas\Icon\Console.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=G:\000programfiles\Dev-Pas\Icons\main.pas
+FileTime=1153264040

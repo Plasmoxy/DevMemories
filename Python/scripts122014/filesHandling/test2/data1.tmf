@@ -1,0 +1,14 @@
+-- TREE MEDIA FILE by Sebastian Petrik --
+
+!tmfVer:1:tmfVer!
+
+tmf:
+	pes1:
+		meno:Arnold Schweissnigga:meno
+		vek:6:vek
+	:pes1
+	otec:
+		meno:Anton:meno
+		vek:50:vek
+	:otec
+:tmf

@@ -1,0 +1,1 @@
+start dist\LabdaMoving_py.exe
