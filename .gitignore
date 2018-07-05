@@ -1,4 +1,7 @@
 *.exe
+*.dll
+*.so
+
 
 .vscode/*
 !.vscode/settings.json
